@@ -99,8 +99,9 @@ public class RobotMap {
         
         
         manipulatorTalonRight8 = new WPI_TalonSRX(8);
-        
+        */
         barMotor = new Spark(0);
+        /*
         
         
         shiftersShifterSolenoid = new DoubleSolenoid(0, 1);
